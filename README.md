@@ -40,3 +40,7 @@ I will trigger the add_transaction tool to update their dashboard.
 {"action": "add_transaction", "amount": 12, "category": "Food", "type": "expense"}
 </tool_call>
 I've added that $12 food expense to your dashboard.
+```
+## Usage & Weights
+The model weights are hosted on Hugging Face:
+👉 **[Download / Access Model on Hugging Face](https://huggingface.co/3amthoughts/zenfinance-3b)**
